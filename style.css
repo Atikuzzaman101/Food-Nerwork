@@ -86,7 +86,7 @@ footer{
     padding: 10px;
 }
 .background{
-    background-image: url(images/shapes/back2.jpg);
+    background-image: url(./images/shapes/back2.jpg);
     background-repeat: no-repeat;
     color: #575757;
     text-align: right;
