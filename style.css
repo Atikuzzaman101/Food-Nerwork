@@ -12,17 +12,23 @@ body{
     padding-top: 70px;
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bolder;
 }
 h2{
     font-size: 40px;
 }
+h6{
+    font-size: 30px;
+}
+small{
+    font-size: 20px;
+}
 .link-button{
     text-decoration: none;
     padding: 10px 20px;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 15px;
     background-image: linear-gradient(orange,rgb(255, 123, 0));
     color: wheat;
     font-weight: 700;
@@ -30,6 +36,10 @@ h2{
 .flexible-container{
     display: flex;
     padding-bottom: 150px;
+}
+.padding{
+    padding-left: 5%;
+    padding-top: 10%;
 }
 .half-width{
     width: 50%;
@@ -75,6 +85,19 @@ footer{
 .text-padding{
     padding: 10px;
 }
+.background{
+    background-image: url(images/shapes/back2.jpg);
+    background-repeat: no-repeat;
+    color: #575757;
+    text-align: right;
+    height: 300px;
+    margin-bottom: 150px;
+    width: 90%;
+    margin-left: 4%;
+    padding-right: 2%;
+    border-radius: 15px;
+}
+
 .like-section{
     width: 80%;
     border-radius: 20px;
